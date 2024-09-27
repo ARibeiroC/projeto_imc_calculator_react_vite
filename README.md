@@ -22,8 +22,7 @@ Este projeto é apenas um treino para testar os conhecimentos adquiridos durante
 # <p><span>URL.:</span><span>EM BREVE</span></p>
 
 <div id="titulos" >
-  <figcaption> <span>HOME</span> </figcaption>
-  <figcaption> <span>HOME</span> </figcaption>
+  <figcaption> <span>HOME                                                       </span> </figcaption>                                                   <figcaption> <span>HOME</span> </figcaption>
 </div>
 
 <div id="imagens" style="display: flex; margin-inline: 10; border: 1px solid #f00">

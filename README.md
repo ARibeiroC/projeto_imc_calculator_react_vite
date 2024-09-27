@@ -12,12 +12,18 @@ Este projeto é apenas um treino para testar os conhecimentos adquiridos durante
 
 # <p><span>URL.:</span><span>EM BREVE</span></p>
 
-<div id="titulos" >
-  <figcaption> <span>HOME                                                       </span> </figcaption>                                                   <figcaption> <span>HOME</span> </figcaption>
-</div>
 
-<div id="imagens" style="display: flex; margin-inline: 10; border: 1px solid #f00">
-  <img src="https://i.ibb.co/XWPXk31/design-home.jpg" alt="Imagem da home do projeto, onde é colocado os dados de altura e peso" width="100px" />
-  <img src="https://i.ibb.co/XWPXk31/design-home.jpg" alt="Imagem da home do projeto, onde é colocado os dados de altura e peso" width="100px" />
-</div>
-'theme: jekyll-theme-minimal'
+<table>
+  <tr>
+    <th>HOME</th>
+    <th>IMC CALCULADO</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://i.ibb.co/XWPXk31/design-home.jpg" alt="Imagem da tela inicial da aplicação de calculo de IMC" width="350px"/>
+    </td>
+    <td>
+      <img src="https://i.ibb.co/JQ7t8QF/calculated.jpg" alt="Resultado exibido do calcula do IMC"  width="300px" />
+    </td>
+  </tr>
+</table>

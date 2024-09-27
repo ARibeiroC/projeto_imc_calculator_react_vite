@@ -29,3 +29,4 @@ Este projeto é apenas um treino para testar os conhecimentos adquiridos durante
   <img src="https://i.ibb.co/XWPXk31/design-home.jpg" alt="Imagem da home do projeto, onde é colocado os dados de altura e peso" width="100px" />
   <img src="https://i.ibb.co/XWPXk31/design-home.jpg" alt="Imagem da home do projeto, onde é colocado os dados de altura e peso" width="100px" />
 </div>
+`theme: jekyll-theme-minimal`

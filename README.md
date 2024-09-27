@@ -6,4 +6,4 @@ Este projeto é apenas um treino para testar os conhecimentos adquiridos durante
 
 
 ### IMC Calculado
-<img src="https://ibb.co/fSdf06Q" alt="Tela com os resultados calculados do Indice de Massa Corporal">
+<img src="https://i.ibb.co/YWBmjnb/calculated.jpg" alt="Tela com os resultados calculados do Indice de Massa Corporal">

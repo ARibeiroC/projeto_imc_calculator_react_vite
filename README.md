@@ -19,4 +19,4 @@ Este projeto é apenas um treino para testar os conhecimentos adquiridos durante
 
 
 ### IMC Calculado
-<img src="https://camo.githubusercontent.com/a0f9e736ae063b26bc0c274856ead58c358ea0a2eedc77703c5f0ed8b9b4291f/68747470733a2f2f692e6962622e636f2f5957426d6a6e622f63616c63756c617465642e6a7067" alt="Tela com os resultados calculados do Indice de Massa Corporal">
+<img src="https://i.ibb.co/JQ7t8QF/calculated.jpg" alt="Tela com os resultados calculados do Indice de Massa Corporal">
